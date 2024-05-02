@@ -1,0 +1,26 @@
+color in use:
+    --primary-color: #051936;
+    --secondary-color: #e05d13;
+    --third-color: #AB4105;
+    --forth-color: #F2F5F9;
+    --footer-color: #010e22;
+    --white: #fff;
+    --black: black;
+
+fonts in use:
+    font-family: Kanit-Regular;
+    font-family: Kanit-Bold;
+
+container size:
+    max-width: 1280px;
+    margin: 0px 75px;
+
+common padding: 144px 45px;
+
+
+icons taken from: fontawosome
+icon attach with offline link there in no online contant for icons
+image in use: from original website
+original website link: https://impreza35.us-themes.com/
+
+other fonts available in extra folder
